@@ -6,3 +6,5 @@ This is a temporary script file.
 """
 
 proj1
+
+xdajdoaodjoada
